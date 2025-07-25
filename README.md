@@ -11,7 +11,7 @@
 | 🟢 | 07 | User Input & while Loops | [cap-07-while-loops](cap-07-while-loops/) |
 | 🟢 | 08 | Functions | [cap-08-functions](cap-08-functions/) |
 | 🟢 | 09 | Classes | [cap-09-classes](cap-09-classes/) |
-| 🟢 | 10 | Files & Exceptions | [cap-10-files-exceptions](cap-10-files-exceptions/) |
+| 🟢 | 10 | Files & Exceptions | [cap-10-files-exceptions](https://github.com/voespinal-code/Files-Exceptions) |
 | 🟡 | 11 | Testing Your Code | pendient​e |
 | ⚪ | 12 | Pygame – Ship that Fires Bullets | pendient​e |
 | ⚪ | 13 | Pygame – Aliens | pendient​e |
